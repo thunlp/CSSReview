@@ -5,7 +5,6 @@ CSS: Computational Social Science
 Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
 
 ## [Content for Text](#content-text)
-
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-text">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -37,10 +36,10 @@ Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
   <tr>
     <td><a href="#emb-sent-neural">2.2.2 Neural-based</a></td>
   </tr>
+</table>
 
 
 ## [Content for Network](#content-network)
-
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-network">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -75,7 +74,6 @@ Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
 
 
 ## [Content for Applications](#applications)
-
 <table>
   <tr>
     <td><a href="#sociology">1. Sociology</a></td>
