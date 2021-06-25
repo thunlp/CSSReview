@@ -1,4 +1,4 @@
-# Must-read papers on CSS
+# Papers in CSS
 
 CSS: Computational Social Science
 
