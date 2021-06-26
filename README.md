@@ -65,7 +65,7 @@ Corrections and suggestions are welcomed!
     <td><a href="#symbol-node-index">1.1.3 Designed Index</a></td>
   </tr>
   <tr>
-    <td><a href="#symbol-node-prob">1.1.4 Probablistic model</a></td>
+    <td><a href="#symbol-node-prob">1.1.4 Probablistic Model</a></td>
   </tr>
   <tr>
     <td rowspan="2">&emsp;<a href="#symbol-subgraph">1.2 Subgraph</a></td>
@@ -107,3 +107,50 @@ Corrections and suggestions are welcomed!
     <td colspan='2'><a href="#environment">9. Environment</a></td>
 	</tr>
 </table>
+
+
+## [Text](#content-text)
+### [Symbol-based representation](#content-text)
+#### [Word](#content-text)
+##### [Frequency-based](#content-text)
+##### [Feature-based](#content-text)
+##### [Network-based](#content-text)
+#### [Sentence](#content-text)
+##### [Frequency-based](#content-text)
+##### [Feature-based](#content-text)
+### [Embedding-based representation](#content-text)
+#### [Word](#content-text)
+##### [Word Embedding-based](#content-text)
+#### [Sentence](#content-text)
+##### [Topic Model-based](#content-text)
+##### [Neural-based](#content-text)
+
+
+
+## [Network](#content-network)
+### [Symbol-based representation](#content-network)
+#### [Node](#content-network)
+##### [Node & Edge-based Statistics](#content-network)
+##### [Centrality-based](#content-network)
+##### [Designed Index](#content-network)
+##### [Probablitic Model](#content-network)
+#### [Subgraph](#content-network)
+##### [Motif-based statistics/coefficients/index](#content-network)
+##### [Cluster-based statistics/coefficients/index](#content-network)
+### [Embedding-based representation](#content-network)
+#### [Node & Subgraph](#content-network)
+##### [Matrix Factorization](#content-network)
+##### [Neural-based](#content-network)
+
+
+
+## [Applications](#applications)
+### [Sociology](#applications)
+### [Anthropology](#applications)
+### [Psychology](#applications)
+### [Politics](#applications)
+### [Economics](#applications)
+### [Linguistics](#applications)
+### [Communication](#applications)
+### [Geography](#applications)
+### [Environment](#applications)
