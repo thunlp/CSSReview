@@ -8,7 +8,7 @@ Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
 
 ## Introduction
 
-Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](). Specifically, the structure of this paperlist is organized as three parts: [Content for Text](#content-text), [Content for Network](#content-network) and [Content for Applications](#applications).
+Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](). Specifically, the structure of this paperlist is organized as three parts: [Content for Text](#contenttext), [Content for Network](#contentnetwork) and [Content for Applications](#applications).
 
 Note that we established the paperlist by investigating on more than 400 top-cited articles from 6 representative publications over ten years. These publications include three prestigious multidisciplinary academic journals, namely ***Nature***, ***Science*** and ***PNAS***, and three top conferences in computer science strongly related to CSS, namely ***ACL***, ***WWW*** and ***KDD***.
 
@@ -16,7 +16,7 @@ Corrections and suggestions are welcomed!
 
 
 
-## [Content for Text](#content-text)
+## [Content for Text](#contenttext)
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-text">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -51,7 +51,7 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Content for Network](#content-network)
+## [Content for Network](#contentnetwork)
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-network">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -85,7 +85,7 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Content for Applications](#applications)
+## [Content for Applications](#contentapplications)
 <table>
   <tr>
     <td><a href="#sociology">1. Sociology</a></td>
@@ -109,48 +109,48 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Text](#content-text)
-### [Symbol-based representation](#content-text)
-#### [Word](#content-text)
-##### [Frequency-based](#content-text)
-##### [Feature-based](#content-text)
-##### [Network-based](#content-text)
-#### [Sentence](#content-text)
-##### [Frequency-based](#content-text)
-##### [Feature-based](#content-text)
-### [Embedding-based representation](#content-text)
-#### [Word](#content-text)
-##### [Word Embedding-based](#content-text)
-#### [Sentence](#content-text)
-##### [Topic Model-based](#content-text)
-##### [Neural-based](#content-text)
+## [Text](#contenttext)
+### [Symbol-based representation](#contenttext)
+#### [Word](#contenttext)
+##### [Frequency-based](#contenttext)
+##### [Feature-based](#contenttext)
+##### [Network-based](#contenttext)
+#### [Sentence](#contenttext)
+##### [Frequency-based](#contenttext)
+##### [Feature-based](#contenttext)
+### [Embedding-based representation](#contenttext)
+#### [Word](#contenttext)
+##### [Word Embedding-based](#contenttext)
+#### [Sentence](#contenttext)
+##### [Topic Model-based](#contenttext)
+##### [Neural-based](#contenttext)
 
 
 
-## [Network](#content-network)
-### [Symbol-based representation](#content-network)
-#### [Node](#content-network)
-##### [Node & Edge-based Statistics](#content-network)
-##### [Centrality-based](#content-network)
-##### [Designed Index](#content-network)
-##### [Probablitic Model](#content-network)
-#### [Subgraph](#content-network)
-##### [Motif-based statistics/coefficients/index](#content-network)
-##### [Cluster-based statistics/coefficients/index](#content-network)
-### [Embedding-based representation](#content-network)
-#### [Node & Subgraph](#content-network)
-##### [Matrix Factorization](#content-network)
-##### [Neural-based](#content-network)
+## [Network](#contentnetwork)
+### [Symbol-based representation](#contentnetwork)
+#### [Node](#contentnetwork)
+##### [Node & Edge-based Statistics](#contentnetwork)
+##### [Centrality-based](#contentnetwork)
+##### [Designed Index](#contentnetwork)
+##### [Probablitic Model](#contentnetwork)
+#### [Subgraph](#contentnetwork)
+##### [Motif-based statistics/coefficients/index](#contentnetwork)
+##### [Cluster-based statistics/coefficients/index](#contentnetwork)
+### [Embedding-based representation](#contentnetwork)
+#### [Node & Subgraph](#contentnetwork)
+##### [Matrix Factorization](#contentnetwork)
+##### [Neural-based](#contentnetwork)
 
 
 
-## [Applications](#applications)
-### [Sociology](#applications)
-### [Anthropology](#applications)
-### [Psychology](#applications)
-### [Politics](#applications)
-### [Economics](#applications)
-### [Linguistics](#applications)
-### [Communication](#applications)
-### [Geography](#applications)
-### [Environment](#applications)
+## [Applications](#contentapplications)
+### [Sociology](#contentapplications)
+### [Anthropology](#contentapplications)
+### [Psychology](#contentapplications)
+### [Politics](#contentapplications)
+### [Economics](#contentapplications)
+### [Linguistics](#contentapplications)
+### [Communication](#contentapplications)
+### [Geography](#contentapplications)
+### [Environment](#contentapplications)
