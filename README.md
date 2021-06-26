@@ -8,7 +8,7 @@ Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
 
 ## Introduction
 
-Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](). Specifically, the structure of this paperlist is organized as three parts: [Content for Text][#content-text], [Content for Network](#content-network) and [Content for Applications](#applications).
+Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](). Specifically, the structure of this paperlist is organized as three parts: [Content for Text](#content-text), [Content for Network](#content-network) and [Content for Applications](#applications).
 
 Note that we established the paperlist by investigating on more than 400 top-cited articles from 6 representative publications over ten years. These publications include three prestigious multidisciplinary academic journals, namely ***Nature***, ***Science*** and ***PNAS***, and three top conferences in computer science strongly related to CSS, namely ***ACL***, ***WWW*** and ***KDD***.
 
