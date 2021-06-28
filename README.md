@@ -237,7 +237,7 @@ Corrections and suggestions are welcomed!
 
    *Adam DI Kramer, Jamie E Guillory, and Jeffrey T Hancock.*
 
-10. **Emotion shapes the diffusion of moralized content in social networks. ** PNAS 114.28 (2017). [paper](https://www.pnas.org/content/114/28/7313.short)
+10. **Emotion shapes the diffusion of moralized content in social networks.** PNAS 114.28 (2017). [paper](https://www.pnas.org/content/114/28/7313.short)
 
     *William J Brady et al.*
 
@@ -271,15 +271,15 @@ Corrections and suggestions are welcomed!
 #### [Word](#contenttext)
 ##### [Word Embedding-based](#contenttext)
 
-1. **Word embeddings quantify 100 years of gender and ethnic stereotypes. ** PNAS 115.16 (2018). [paper][https://www.pnas.org/content/115/16/E3635.short]
+1. **Word embeddings quantify 100 years of gender and ethnic stereotypes.** PNAS 115.16 (2018). [paper](https://www.pnas.org/content/115/16/E3635.short)
 
    *Nikhil Garg et al.*
 
-2. **Semantics derived automatically from language corpora contain human-like biases. ** *Science* 356.6334 (2017). [paper][https://science.sciencemag.org/content/356/6334/183.abstract]
+2. **Semantics derived automatically from language corpora contain human-like biases.** *Science* 356.6334 (2017). [paper](https://science.sciencemag.org/content/356/6334/183.abstract)
 
    *Aylin Caliskan, Joanna J Bryson, and Arvind Narayanan.*
 
-3. **Parents mention sons more often than daughters on social media. ** PNAS 116.6 (2019). [paper](https://www.pnas.org/content/116/6/2039.short)
+3. **Parents mention sons more often than daughters on social media.** PNAS 116.6 (2019). [paper](https://www.pnas.org/content/116/6/2039.short)
 
    *Elizaveta Sivak and Ivan Smirnov.*
 
@@ -288,7 +288,7 @@ Corrections and suggestions are welcomed!
 #### [Sentence](#contenttext)
 ##### [Topic Model-based](#contenttext)
 
-1. **Measuring discursive influence across scholarship. ** PNAS 115.13 (2018). [paper][https://www.pnas.org/content/115/13/3308.short]
+1. **Measuring discursive influence across scholarship.** PNAS 115.13 (2018). [paper](https://www.pnas.org/content/115/13/3308.short)
 
    *Aaron Gerow et al.*
 
@@ -296,27 +296,27 @@ Corrections and suggestions are welcomed!
 
    *A Lupia, S Soroka, and A Beatty.*
 
-3. **Race, religion and the city: twitter word frequency patterns reveal dominant demographic dimensions in the United States.** *Palgrave Communications* 2.1 (2016). [paper][https://www.nature.com/articles/palcomms201610]
+3. **Race, religion and the city: twitter word frequency patterns reveal dominant demographic dimensions in the United States.** *Palgrave Communications* 2.1 (2016). [paper](https://www.nature.com/articles/palcomms201610)
 
    *Eszter Boka ́nyi et al.*
 
-4. **Network structure and influence of the climate change counter-movement.** *Nature Climate Change* 6.4 (2016). [paper][https://www.nature.com/articles/nclimate2875]
+4. **Network structure and influence of the climate change counter-movement.** *Nature Climate Change* 6.4 (2016). [paper](https://www.nature.com/articles/nclimate2875)
 
    *Justin Farrell.*
 
-5. **Predicting the birth of a spoken word. ** PNAS 112.41 (2015). [paper][https://www.pnas.org/content/112/41/12663.short]
+5. **Predicting the birth of a spoken word.** PNAS 112.41 (2015). [paper](https://www.pnas.org/content/112/41/12663.short)
 
    *Brandon C Roy et al.*
 
-6. **Quantifying the semantics of search behavior before stock market moves. ** PNAS 111.32 (2014). [paper][https://www.pnas.org/content/111/32/11600.short]
+6. **Quantifying the semantics of search behavior before stock market moves.** PNAS 111.32 (2014). [paper](https://www.pnas.org/content/111/32/11600.short)
 
    *C. Curme et al.*
 
-7. **Corporate funding and ideological polarization about climate change. ** PNAS 113.1 (2016). [paper][https://www.pnas.org/content/113/1/92.short]
+7. **Corporate funding and ideological polarization about climate change.** PNAS 113.1 (2016). [paper](https://www.pnas.org/content/113/1/92.short)
 
    Justin Farrell.
 
-8. **Estimating geographic subjective well-being from Twitter: A comparison of dictionary and data-driven language methods. ** PNAS 117.19 (2020). [paper][https://www.pnas.org/content/117/19/10165.short]
+8. **Estimating geographic subjective well-being from Twitter: A comparison of dictionary and data-driven language methods.** PNAS 117.19 (2020). [paper](https://www.pnas.org/content/117/19/10165.short)
 
    *Kokil Jaidka et al.*
 
@@ -330,15 +330,15 @@ Corrections and suggestions are welcomed!
 
    *Karthik Sheshadri and Munindar P Singh.*
 
-2. **Restoration of fragmentary Babylonian texts using recurrent neural networks. ** PNAS 117.37 (2020). [paper][https://www.pnas.org/content/117/37/22743.short]
+2. **Restoration of fragmentary Babylonian texts using recurrent neural networks.** PNAS 117.37 (2020). [paper](https://www.pnas.org/content/117/37/22743.short)
 
    *Ethan Fetaya et al.*
 
-3. **Universals of word order reflect optimization of grammars for efficient communication. ** PNAS 117.5 (2020). [paper][https://www.pnas.org/content/117/5/2347.short]
+3. **Universals of word order reflect optimization of grammars for efficient communication.** PNAS 117.5 (2020). [paper](https://www.pnas.org/content/117/5/2347.short)
 
    *Michael Hahn, Dan Jurafsky, and Richard Futrell.*
 
-4. **Moralization in social networks and the emergence of violence during protests.** *Nature Human Behaviour* 2.6 (2018). [paper][https://www.nature.com/articles/s41562-018-0353-0]
+4. **Moralization in social networks and the emergence of violence during protests.** *Nature Human Behaviour* 2.6 (2018). [paper](https://www.nature.com/articles/s41562-018-0353-0)
 
    *Marlon Mooijman et al.*
 
