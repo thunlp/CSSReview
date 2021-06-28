@@ -348,6 +348,61 @@ Corrections and suggestions are welcomed!
 ### [Symbol-based representation](#contentnetwork)
 #### [Node](#contentnetwork)
 ##### [Node & Edge-based Statistics](#contentnetwork)
+
+1. **Fake news on Twitter during the 2016 US presidential election.** *Science* 363.6425 (2019). [paper](https://science.sciencemag.org/content/363/6425/374.abstract)
+
+   *Nir Grinberg et al.*
+
+2. **A comparative analysis of the statistical properties of large mobile phone calling networks.** *Scientific Reports* 4.1 (2014). [paper](https://www.nature.com/articles/srep05132)
+
+   *Ming-Xia Li et al.*
+
+3. **A psychological intervention strengthens students’ peer social networks and promotes persistence in STEM.** *Science Advances* 6.45 (2020). [paper](https://advances.sciencemag.org/content/6/45/eaba9221?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1)
+
+   *Kate M Turetsky et al.*
+
+4. **Social networks and cooperation in hunter-gatherers.** *Nature* 481.7382 (2012). [paper](https://www.nature.com/articles/nature10736)
+
+   *Coren L Apicella et al.*
+
+5. **How social and genetic factors predict friendship networks.** PNAS 109.43 (2012). [paper](https://www.pnas.org/content/109/43/17377.short)
+
+   *Jason D Boardman, Benjamin W Domingue, and Jason M Fletcher.*
+
+6. **Systematic inequality and hierarchy in faculty hiring networks.** *Science Advances* 1.1 (2015). [paper](https://advances.sciencemag.org/content/1/1/e1400005?hc_location=ufi)
+
+   *Aaron Clauset, Samuel Arbesman, and Daniel B Larremore.*
+
+7. **Document co- citation analysis to enhance transdisciplinary research.** *Science Advances* 4.1 (2018). [paper](https://advances.sciencemag.org/content/4/1/e1701130?muraadminpreview&muraadminpreview&mobileformat=false)
+
+   *Caleb M Trujillo and Tammy M Long.*
+
+8. **Quantifying the impact of human mobility on malaria.** *Science* 338.6104 (2012). [paper](https://science.sciencemag.org/content/338/6104/267.abstract)
+
+   *Amy Wesolowski et al.*
+
+9. **Spatial patterns of close relationships across the lifespan.** *Scientific Reports* 4.1 (2014). [paper](https://www.nature.com/articles/srep06988)
+
+   *Hang-Hyun Jo et al.*
+
+10. **Similar neural responses predict friendship.** *Nature Communications* 9.1 (2018). [paper](https://www.nature.com/articles/s41467-017-02722-7)
+
+    *Carolyn Parkinson, Adam M Kleinbaum, and Thalia Wheatley.*
+
+11. **Large teams develop and small teams disrupt science and technology.** *Nature* 566.7744 (2019). [paper](https://www.nature.com/articles/s41586-019-0941-9?wpisrc=)
+
+    *Lingfei Wu, Dashun Wang, and James A Evans.*
+
+12. **The strength of long-range ties in population- scale social networks.** *Science* 362.6421 (2018). [paper](https://science.sciencemag.org/content/362/6421/1410.abstract)
+
+    *Patrick S Park, Joshua E Blumenstock, and Michael W Macy.*
+
+13. **Leaking privacy and shadow profiles in online social networks.** *Science Advances* 3.8 (2017). [paper](https://advances.sciencemag.org/content/3/8/e1701172?intcmp=trendmd-adv)
+
+    *David Garcia.*
+
+    
+
 ##### [Centrality-based](#contentnetwork)
 ##### [Designed Index](#contentnetwork)
 ##### [Probablitic Model](#contentnetwork)
