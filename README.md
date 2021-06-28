@@ -261,7 +261,7 @@ Corrections and suggestions are welcomed!
 
     *Meysam Alizadeh et al.*
 
-16. **What does Congress want from the National Science Foundation? A content analysis of remarks from 1995 to 2018.** Science Advances 6.33 (2020). [paper][https://advances.sciencemag.org/content/6/33/eaaz6300?utm_campaign=SciAdvances&utm_source=Contractor&utm_medium=Twitter]
+16. **What does Congress want from the National Science Foundation? A content analysis of remarks from 1995 to 2018.** Science Advances 6.33 (2020). [paper](https://advances.sciencemag.org/content/6/33/eaaz6300?utm_campaign=SciAdvances&utm_source=Contractor&utm_medium=Twitter)
 
     *A Lupia, S Soroka, and A Beatty.*
 
