@@ -16,7 +16,7 @@ Corrections and suggestions are welcomed!
 
 
 
-## [Content for Text](#contenttext)
+## [Table of Content for Text](#contenttext)
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-text">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -51,7 +51,7 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Content for Network](#contentnetwork)
+## [Table of Content for Network](#contentnetwork)
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-network">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -85,7 +85,7 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Content for Applications](#contentapplications)
+## [Table of Content for Research Domains](#contentapplications)
 <table>
   <tr>
     <td><a href="#sociology">1. Sociology</a></td>
