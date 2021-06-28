@@ -361,7 +361,7 @@ Corrections and suggestions are welcomed!
 
 
 
-## [Applications](#contentapplications)
+## [Research Domains](#contentapplications)
 ### [Sociology](#contentapplications)
 ### [Anthropology](#contentapplications)
 ### [Psychology](#contentapplications)
