@@ -8,7 +8,7 @@ Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
 
 ## Introduction
 
-Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](https://arxiv.org/abs/2106.14198). Specifically, the structure of this paperlist is organized as three parts: [Table of Content for Text](#contenttext), [Table of Content for Network](#contentnetwork) and [Table of Content for Research Domains](#applications).
+Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](https://arxiv.org/abs/2106.14198). Specifically, the structure of this paperlist is organized as three parts: [Table of Content for Text](#text), [Table of Content for Network](#network) and [Table of Content for Research Domains](#domains).
 
 Note that we established the paperlist by investigating on more than 400 top-cited articles from 6 representative publications over ten years. These publications include three prestigious multidisciplinary academic journals, namely ***Nature***, ***Science*** and ***PNAS***, and three top conferences in computer science strongly related to CSS, namely ***ACL***, ***WWW*** and ***KDD***.
 
@@ -16,7 +16,7 @@ Corrections and suggestions are welcomed!
 
 
 
-## [Table of Content for Text](#contenttext)
+## [Table of Content for Text](#text)
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-text">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -51,7 +51,7 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Table of Content for Network](#contentnetwork)
+## [Table of Content for Network](#network)
 <table>
   <tr><td colspan="2"><a href="#symbol-rep-network">1. Symbol-based representation</a></td></tr>
   <tr>
@@ -85,7 +85,7 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Table of Content for Research Domains](#contentapplications)
+## [Table of Content for Research Domains](#domains)
 <table>
   <tr>
     <td><a href="#sociology">1. Sociology</a></td>
@@ -109,10 +109,10 @@ Corrections and suggestions are welcomed!
 </table>
 
 
-## [Text](#contenttext)
-### [Symbol-based representation](#contenttext)
-#### [Word](#contenttext)
-##### [Frequency-based](#contenttext)
+## [Text](#text)
+### [Symbol-based representation](#text)
+#### [Word](#text)
+##### [Frequency-based](#text)
 
 1. **Ontogeny and phylogeny of language.** PNAS 110.16 (2013). [paper](https://www.pnas.org/content/110/16/6324.short)
 
@@ -142,7 +142,7 @@ Corrections and suggestions are welcomed!
 
    *Merve Alanyali, Helen Susannah Moat, and Tobias Preis.*
 
-##### [Feature-based](#contenttext)
+##### [Feature-based](#text)
 
 1. **Human language reveals a universal positivity bias.** PNAS 112.8 (2015). [paper](https://www.pnas.org/content/112/8/2389.short)
 
@@ -152,7 +152,7 @@ Corrections and suggestions are welcomed!
 
    *Alexander G Huth et al.*
 
-##### [Network-based](#contenttext)
+##### [Network-based](#text)
 
 1. **Bots increase exposure to negative and inflammatory content in online social systems.** PNAS 115.49 (2018). [paper](https://www.pnas.org/content/115/49/12435.short)
 
@@ -176,8 +176,8 @@ Corrections and suggestions are welcomed!
 
    
 
-#### [Sentence](#contenttext)
-##### [Frequency-based](#contenttext)
+#### [Sentence](#text)
+##### [Frequency-based](#text)
 
 1. **Patterns of text reuse in a scientific corpus.** PNAS 112.1 (2015). [paper](https://www.pnas.org/content/112/1/25.short)
 
@@ -199,7 +199,7 @@ Corrections and suggestions are welcomed!
 
    *Steven T Piantadosi, Harry Tily, and Edward Gibson.*
 
-##### [Feature-based](#contenttext)
+##### [Feature-based](#text)
 
 1. **Large-scale evidence of dependency length minimization in 37 languages.** PNAS 112.33 (2015). [paper](https://www.pnas.org/content/112/33/10336.short)
 
@@ -267,9 +267,9 @@ Corrections and suggestions are welcomed!
 
     
 
-### [Embedding-based representation](#contenttext)
-#### [Word](#contenttext)
-##### [Word Embedding-based](#contenttext)
+### [Embedding-based representation](#text)
+#### [Word](#text)
+##### [Word Embedding-based](#text)
 
 1. **Word embeddings quantify 100 years of gender and ethnic stereotypes.** PNAS 115.16 (2018). [paper](https://www.pnas.org/content/115/16/E3635.short)
 
@@ -285,8 +285,8 @@ Corrections and suggestions are welcomed!
 
    
 
-#### [Sentence](#contenttext)
-##### [Topic Model-based](#contenttext)
+#### [Sentence](#text)
+##### [Topic Model-based](#text)
 
 1. **Measuring discursive influence across scholarship.** PNAS 115.13 (2018). [paper](https://www.pnas.org/content/115/13/3308.short)
 
@@ -324,7 +324,7 @@ Corrections and suggestions are welcomed!
 
    *Johannes C Eichstaedt et al.*
 
-##### [Neural-based](#contenttext)
+##### [Neural-based](#text)
 
 1. **The public and legislative impact of hyperconcentrated topic news.** Science Advances 5.8 (2019). [paper](https://advances.sciencemag.org/content/5/8/eaat8296.abstract)
 
@@ -344,10 +344,10 @@ Corrections and suggestions are welcomed!
 
 
 
-## [Network](#contentnetwork)
-### [Symbol-based representation](#contentnetwork)
-#### [Node](#contentnetwork)
-##### [Node & Edge-based Statistics](#contentnetwork)
+## [Network](#network)
+### [Symbol-based representation](#network)
+#### [Node](#network)
+##### [Node & Edge-based Statistics](#network)
 
 1. **Fake news on Twitter during the 2016 US presidential election.** *Science* 363.6425 (2019). [paper](https://science.sciencemag.org/content/363/6425/374.abstract)
 
@@ -401,7 +401,7 @@ Corrections and suggestions are welcomed!
 
     *David Garcia.*
 
-##### [Centrality-based](#contentnetwork)
+##### [Centrality-based](#network)
 
 1. **A psychological intervention strengthens students’ peer social networks and promotes persistence in STEM.** *Science Advances* 6.45 (2020). [paper](https://advances.sciencemag.org/content/6/45/eaba9221?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1)
 
@@ -439,7 +439,7 @@ Corrections and suggestions are welcomed!
 
    *Marcin Waniek et al.*
 
-##### [Designed Index](#contentnetwork)
+##### [Designed Index](#network)
 
 1. **The dynamics of meaningful social interactions and the emergence of collective knowledge.** Scientific Reports 5.1 (2015). [paper](https://www.nature.com/articles/srep12197?origin=ppub)
 
@@ -473,7 +473,7 @@ Corrections and suggestions are welcomed!
 
    *Sen Pei et al.*
 
-##### [Probablitic Model](#contentnetwork)
+##### [Probablitic Model](#network)
 
 1. **The dynamics of meaningful social interactions and the emergence of collective knowledge.** Scientific Reports 5.1 (2015). [paper](https://www.nature.com/articles/srep12197?origin=ppub)
 
@@ -493,8 +493,8 @@ Corrections and suggestions are welcomed!
 
    
 
-#### [Subgraph](#contentnetwork)
-##### [Motif-based statistics/coefficients/index](#contentnetwork)
+#### [Subgraph](#network)
+##### [Motif-based statistics/coefficients/index](#network)
 
 1. **Cumulative effects of triadic closure and homophily in social networks.** Science Advances 6.19 (2020). [paper](https://advances.sciencemag.org/content/6/19/eaax7310.abstract)
 
@@ -504,7 +504,7 @@ Corrections and suggestions are welcomed!
 
    *Lauri Kovanen et al.*
 
-##### [Cluster-based statistics/coefficients/index](#contentnetwork)
+##### [Cluster-based statistics/coefficients/index](#network)
 
 1. **Document co- citation analysis to enhance transdisciplinary research.** *Science Advances* 4.1 (2018). [paper](https://advances.sciencemag.org/content/4/1/e1701130?muraadminpreview&muraadminpreview&mobileformat=false)
 
@@ -522,9 +522,9 @@ Corrections and suggestions are welcomed!
 
    *Marcin Waniek et al.*
 
-### [Embedding-based representation](#contentnetwork)
-#### [Node & Subgraph](#contentnetwork)
-##### [Matrix Factorization](#contentnetwork)
+### [Embedding-based representation](#network)
+#### [Node & Subgraph](#network)
+##### [Matrix Factorization](#network)
 
 1. **Like like alike: joint friendship and interest propagation in social networks.** WWW 2011. [paper](https://dl.acm.org/doi/abs/10.1145/1963405.1963481?casa_token=_mVvEXnPDHEAAAAA:_wSNu-DfwhsKh1CVIsomapxF6NH-jTB4R1X1179EeSesSDvxOgtjn_2QlH5dhMN_s09xCugUn8t5dA)
 
@@ -542,7 +542,7 @@ Corrections and suggestions are welcomed!
 
    *Guan Wang et al.*
 
-##### [Neural-based](#contentnetwork)
+##### [Neural-based](#network)
 
 1. **Revisiting user mobility and social relationships in lbsns: A hypergraph embedding approach.** WWW 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313635?casa_token=jqoqAmg5WTsAAAAA:IUEAaaRANp3-kTdh3NK4S3wNWNan-nYBD_bfnAtrjymq-mzMqR32d85Dm6v2C-80fU4UFbBAyinsEA)
 
@@ -562,13 +562,13 @@ Corrections and suggestions are welcomed!
 
    
 
-## [Research Domains](#contentapplications)
-### [Sociology](#contentapplications)
-### [Anthropology](#contentapplications)
-### [Psychology](#contentapplications)
-### [Politics](#contentapplications)
-### [Economics](#contentapplications)
-### [Linguistics](#contentapplications)
-### [Communication](#contentapplications)
-### [Geography](#contentapplications)
-### [Environment](#contentapplications)
+## [Research Domains](#domains)
+### [Sociology](#domains)
+### [Anthropology](#domains)
+### [Psychology](#domains)
+### [Politics](#domains)
+### [Economics](#domains)
+### [Linguistics](#domains)
+### [Communication](#domains)
+### [Geography](#domains)
+### [Environment](#domains)
