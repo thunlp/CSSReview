@@ -564,11 +564,249 @@ Corrections and suggestions are welcomed!
 
 ## [Research Domains](#domains)
 ### [Sociology](#domains)
+#### [Symbol-based representation](#domains)
+#### [Embedding-based representation](#domains)
 ### [Anthropology](#domains)
+#### [Symbol-based representation](#domains)
+
+1. **The civilizing process in London’s Old Bailey.** PNAS 111.26 (2014). [paper](https://www.pnas.org/content/111/26/9419.short)
+
+   *Sara Klingenstein, Tim Hitchcock, and Simon DeDeo.*
+
+2. **Universality and diversity in human song.** *Science* 366.6468 (2019). [paper](https://science.sciencemag.org/content/366/6468/eaax0868.abstract)
+
+   *Samuel A Mehr et al.*
+
+#### [Embedding-based representation](#domains)
+
+1. **Restoration of fragmentary Babylonian texts using recurrent neural networks.** PNAS 117.37 (2020). [paper](https://www.pnas.org/content/117/37/22743.short)
+
+   *Ethan Fetaya et al.*
+
+2. **Happiness and the patterns of life: A study of geolocated tweets.** *Scientific Reports* 3.1 (2013). [paper](https://www.nature.com/articles/srep02625)
+
+   *Morgan R Frank et al.*
+
+   
+
 ### [Psychology](#domains)
+#### [Symbol-based representation](#domains)
+
+1. **Experimental evidence of massive-scale emotional contagion through social networks.** PNAS 111.24 (2014). [paper](https://www.pnas.org/content/111/24/8788.short)
+
+   *Adam DI Kramer, Jamie E Guillory, and Jeffrey T Hancock.*
+
+2. **Facebook language predicts depression in medical records.** PNAS 115.44 (2018). [paper](https://www.pnas.org/content/115/44/11203?utm_source=yxnews&utm_medium=mobile)
+
+   *Johannes C Eichstaedt et al.*
+
+3. **The grass is greener on the other side: Understanding the effects of green spaces on Twitter user sentiments.** WWW 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3184558.3186337?casa_token=VV_TMfP1w6EAAAAA:a0AXsLIr4LzDaiFk7VJZkeeVAXw_TdW4mxPC69hunCoiZnnYFzIhDWnV7oUOJ1PiacJUNv8gl7lvMw)
+
+   *Kwan Hui Lim et al.*
+
+4. **Don’t let me be misunderstood: Comparing intentions and perceptions in online discussions.** WWW 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380273?casa_token=nDJ2Jp7IAJcAAAAA:lF0hbOIJS0q7zuYrfpuomeRr97Y_qaGHpWYALJFHJm45HxY72M9BncwAh6K0CvEJIlDNg5IdtJa33w)
+
+   *Jonathan P Chang, Justin Cheng, and Cristian Danescu- Niculescu-Mizil.*
+
+5. **Diurnal and seasonal mood vary with work, sleep, and daylength across diverse cultures.** Science 333.6051 (2011). [paper](https://science.sciencemag.org/content/333/6051/1878/)
+
+   *Scott A Golder and Michael W Macy.*
+
+6. **Estimating geographic subjective well-being from Twitter: A comparison of dictionary and data-driven language methods.** PNAS 117.19 (2020). [paper](https://www.pnas.org/content/117/19/10165.short)
+
+   *Kokil Jaidka et al.*
+
+7. **What about mood swings: Identifying depression on twitter with temporal measures of emotions.** WWW 2018. [paper](https://dl.acm.org/doi/abs/10.1145/3184558.3191624?casa_token=69SKv4TCx90AAAAA:y0yZ19bOBhXCNJZMZjaOnbuwlag_i-Q4UbIE0UBmQu5fqBzvkLjrZg7l2OaUI1K9EuoTkE14yG48lA)
+
+   *Xuetong Chen et al.*
+
+#### [Embedding-based representation](#domains)
+
+1. **Facebook language predicts depression in medical records.** PNAS 115.44 (2018). [paper](https://www.pnas.org/content/115/44/11203?utm_source=yxnews&utm_medium=mobile)
+
+   *Johannes C Eichstaedt et al.*
+
+2. **Knowledge-aware assessment of severity of suicide risk for early intervention.** WWW 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313698?casa_token=5fiZrd156F0AAAAA:dArMX_8dAM_AIKjSW4THmOLgYZJBfPwqU6gbEiCshQpkI_cmIxrCoeRKO321cJp14XzsAfKqDFD84Q)
+
+   *Manas Gaur et al.*
+
+3. **Deepmood: modeling mobile phone typing dynamics for mood detection.** KDD 2017. [paper](https://dl.acm.org/doi/abs/10.1145/3097983.3098086)
+
+   *Bokai Cao et al.*
+
+4. **Estimating geographic subjective well-being from Twitter: A comparison of dictionary and data-driven language methods.** PNAS 117.19 (2020). [paper](https://www.pnas.org/content/117/19/10165.short)
+
+   *Kokil Jaidka et al.*
+
+5. **Moralization in social networks and the emergence of violence during protests.** *Nature Human Behaviour* 2.6 (2018). [paper](https://www.nature.com/articles/s41562-018-0353-0)
+
+   *Marlon Mooijman et al.*
+
+6. **Identifying referential intention with heterogeneous contexts.** WWW 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380175?casa_token=TJyNIxpP4zwAAAAA:0izVD2VtEC9dbQh_rbWhiSI8u1oBxgLfjPrtPqfxAp2t6bUF0FWcyCVwC3YCY7Zgh0-5HMIOW4Bq2Q)
+
+   *Wenhao Yu et al.*
+
+7. **Social media-predicted personality traits and values can help match people to their ideal jobs.** PNAS 116.52 (2019). [paper](https://www.pnas.org/content/pnas/116/52/26459.full.pdf)
+
+   *Margaret L Kern et al.*
+
+   
+
 ### [Politics](#domains)
+#### [Symbol-based representation](#domains)
+
+1. **What does Congress want from the National Science Foundation? A content analysis of remarks from 1995 to 2018.** Science Advances 6.33 (2020). [paper](https://advances.sciencemag.org/content/6/33/eaaz6300?utm_campaign=SciAdvances&utm_source=Contractor&utm_medium=Twitter)
+
+   *A Lupia, S Soroka, and A Beatty.*
+
+2. **Examining long-term trends in politics and culture through language of political leaders and cultural institutions.** PNAS 116.9 (2019). [paper](https://www.pnas.org/content/116/9/3476.short)
+
+   *Kayla N Jordan et al.*
+
+3. **Validation of Twitter opinion trends with national polling aggregates: Hillary Clinton vs Donald Trump.** Scientific Reports 8.1 (2018). [paper](https://www.nature.com/articles/s41598-018-26951-y)
+
+   *Alexandre Bovet, Flaviano Morone, and Herna ́n A Makse.*
+
+4. **Beyond binary labels: political ideology prediction of twitter users.** ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1068.pdf)
+
+   *Daniel Preo ̧tiuc-Pietro et al.*
+
+5. **Content-based features predict social media influence operations.** *Science Advances* 6.30 (2020). [paper](https://advances.sciencemag.org/content/6/30/eabb5824?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1)
+
+   *Meysam Alizadeh et al.*
+
+6. **Collective classification of congressional floor-debate transcripts.** ACL 2011. [paper](https://www.aclweb.org/anthology/P11-1151.pdf)
+
+   *Clint Burfoot, Steven Bird, and Timothy Baldwin.*
+
+7. **Lexical shifts, substantive changes, and continuity in State of the Union discourse, 1790–2014.** PNAS 112.35 (2015). [paper](https://www.pnas.org/content/112/35/10837.short)
+
+   *Alix Rule, Jean-Philippe Cointet, and Peter S Bearman.*
+
+8. **Classification of Moral Foundations in Microblog Political Discourse.** ACL 2018. [paper](https://www.aclweb.org/anthology/P18-1067.pdf)
+
+   *Kristen Johnson and Dan Goldwasser.*
+
+9. **Leveraging Behavioral and Social Information for Weakly Supervised Collective Classification of Political Discourse on Twitter.** ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1069.pdf)
+
+   *Kristen Johnson, Di Jin, and Dan Goldwasser.*
+
+10. **A user-centric model of voting intention from Social Media.** ACL 2013. [paper](https://www.aclweb.org/anthology/P13-1098.pdf)
+
+    *Vasileios Lampos, Daniel Preotiuc-Pietro, and Trevor Cohn.*
+
+11. **Learning to Extract International Relations from Political Context.** ACL 2013. [paper](https://www.aclweb.org/anthology/P13-1108.pdf)
+
+    *Brendan O’Connor, Brandon M. Stewart, and Noah A. Smith.*
+
+12. **Who falls for online political manipulation?** WWW 2019. [paper](https://dl.acm.org/doi/10.1145/3308560.3316494)
+
+    *Adam Badawy, Kristina Lerman, and Emilio Ferrara.*
+
+13. **Emotion shapes the diffusion of moralized content in social networks.** PNAS 114.28 (2017). [paper](https://www.pnas.org/content/114/28/7313.short)
+
+    *William J Brady et al.*
+
+#### [Embedding-based representation](#domains)
+
+1. **Universals of word order reflect optimization of grammars for efficient communication.** PNAS 117.5 (2020). [paper](https://www.pnas.org/content/117/5/2347.short)
+
+   *Michael Hahn, Dan Jurafsky, and Richard Futrell.*
+
+2. **Facebook Ads Monitor: An Independent Auditing System for Political Ads on Facebook.** WWW 2020. [paper](https://dl.acm.org/doi/10.1145/3366423.3380109)
+
+   *Ma ́rcio Silva et al.*
+
+3. **Predicting the topical stance and political leaning of media using tweets.** ACL 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.50.pdf)
+
+   *Peter Stefanov et al.*
+
+4. **Prta: A System to Support the Analysis of Propaganda Techniques in the News.** ACL 2020. [paper](https://www.aclweb.org/anthology/2020.acl-demos.32.pdf)
+
+   *Giovanni Da San Martino et al.*
+
+5. **Encoding social information with graph convolutional networks forpolitical perspective detection in news media.** ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1247.pdf)
+
+   *Chang Li and Dan Goldwasser.*
+
+6. **Beyond binary labels: political ideology prediction of twitter users.** ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1068.pdf)
+
+   *Daniel Preo ̧tiuc-Pietro et al.*
+
+7. **A Frame of Mind: Using Statistical Models for Detection of Framing and Agenda Setting Campaigns.** ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1157.pdf)
+
+   *Oren Tsur, Dan Calacci, and David Lazer.*
+
+8. **Tea Party in the House: A Hierarchical Ideal Point Topic Model and Its Application to Republican Legislators in the 112th Congress.** ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1139.pdf)
+
+   *Viet-An Nguyen et al.*
+
+9. **Political Ideology Detection Using Recursive Neural Networks.** ACL 2014. [paper](https://www.aclweb.org/anthology/P14-1105.pdf)
+
+   *Mohit Iyyer et al.*
+
+10. **Learning to Extract International Relations from Political Context.** ACL 2013. [paper](https://www.aclweb.org/anthology/P13-1108.pdf)
+
+    *Brendan O’Connor, Brandon M. Stewart, and Noah A. Smith.*
+
+11. **What does Congress want from the National Science Foundation? A content analysis of remarks from 1995 to 2018.** Science Advances 6.33 (2020). [paper](https://advances.sciencemag.org/content/6/33/eaaz6300?utm_campaign=SciAdvances&utm_source=Contractor&utm_medium=Twitter)
+
+    *A Lupia, S Soroka, and A Beatty.*
+
+    
+
 ### [Economics](#domains)
+#### [Symbol-based representation](#domains)
+
+1. **Quantifying the relationship between financial news and the stock market.** Scientific Reports 3.1 (2013). [paper](https://www.nature.com/articles/srep03578)
+
+   *Merve Alanyali, Helen Susannah Moat, and Tobias Preis.*
+
+2. **Semantic frames to predict stock price movement.** ACL 2013. [paper](https://www.aclweb.org/anthology/P13-1086.pdf)
+
+   *Boyi Xie et al.*
+
+#### [Embedding-based representation](#domains)
+
+1. **Quantifying the semantics of search behavior before stock market moves.** PNAS 111.32 (2014). [paper](https://www.pnas.org/content/111/32/11600.short)
+
+   *C. Curme et al.*
+
+2. **HTML: Hierarchical Transformer- based Multi-task Learning for Volatility Prediction.** WWW 2020. [paper](https://dl.acm.org/doi/10.1145/3366423.3380128)
+
+   *Linyi Yang et al.*
+
+3. **Stock Movement Prediction from Tweets and Historical Prices.** ACL 2018. [paper](https://www.aclweb.org/anthology/P18-1183.pdf)
+
+   *Yumo Xu and Shay B. Cohen.*
+
+4. **Topic modeling based sentiment analysis on social media for stock market prediction.** ACL 2015. [paper](https://www.aclweb.org/anthology/P15-1131.pdf)
+
+   *Thien Hai Nguyen and Kiyoaki Shirai.*
+
+5. **Semantic frames to predict stock price movement.** ACL 2013. [paper](https://www.aclweb.org/anthology/P13-1086.pdf)
+
+   *Boyi Xie et al.*
+
+6. **Repeat buyer prediction for e- commerce.** KDD 2016. [paper](https://dl.acm.org/doi/10.1145/2939672.2939674)
+
+   *Guimei Liu et al.*
+
+7. **Predicting socio-economic indicators using news events.** KDD 2016. [paper](https://dl.acm.org/doi/10.1145/2939672.2939817)
+
+   *Sunandan Chakraborty et al.*
+
+
+
 ### [Linguistics](#domains)
+#### [Symbol-based representation](#domains)
+#### [Embedding-based representation](#domains)
 ### [Communication](#domains)
+#### [Symbol-based representation](#domains)
+#### [Embedding-based representation](#domains)
 ### [Geography](#domains)
+#### [Symbol-based representation](#domains)
+#### [Embedding-based representation](#domains)
 ### [Environment](#domains)
+#### [Symbol-based representation](#domains)
+#### [Embedding-based representation](#domains)
