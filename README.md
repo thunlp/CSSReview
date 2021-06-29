@@ -8,7 +8,7 @@ Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
 
 ## Introduction
 
-Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](). Specifically, the structure of this paperlist is organized as three parts: [Table of Content for Text](#contenttext), [Table of Content for Network](#contentnetwork) and [Table of Content for Research Domains](#applications).
+Computational Social Science (CSS) is a fast-emerging field, striving to address socical science problems with the assistance of computational methods. This repo contains the list of all relavant papers surveyed in our paper [**From Symbols to Embeddings: A Tale of Two Representations in Computational Social Science**](https://arxiv.org/abs/2106.14198). Specifically, the structure of this paperlist is organized as three parts: [Table of Content for Text](#contenttext), [Table of Content for Network](#contentnetwork) and [Table of Content for Research Domains](#applications).
 
 Note that we established the paperlist by investigating on more than 400 top-cited articles from 6 representative publications over ten years. These publications include three prestigious multidisciplinary academic journals, namely ***Nature***, ***Science*** and ***PNAS***, and three top conferences in computer science strongly related to CSS, namely ***ACL***, ***WWW*** and ***KDD***.
 
@@ -401,20 +401,166 @@ Corrections and suggestions are welcomed!
 
     *David Garcia.*
 
-    
-
 ##### [Centrality-based](#contentnetwork)
+
+1. **A psychological intervention strengthens students’ peer social networks and promotes persistence in STEM.** *Science Advances* 6.45 (2020). [paper](https://advances.sciencemag.org/content/6/45/eaba9221?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1)
+
+   *Kate M Turetsky et al.*
+
+2. **A network framework of cultural history.** *Science* 345.6196 (2014). [paper](https://science.sciencemag.org/content/345/6196/558.abstract)
+
+   *Maximilian Schich et al.*
+
+3. **Women’s connectivity in extreme networks.** *Science Advances* 2.6 (2016). [paper](https://advances.sciencemag.org/content/2/6/e1501742?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_0)
+
+   *Pedro Manrique et al.*
+
+4. **Networks of global bird invasion altered by regional trade ban.** *Science Advances* 3.11 (2017). [paper](https://advances.sciencemag.org/content/3/11/e1700783.short)
+
+   *Luıs Reino et al.*
+
+5. **Effects of population dispersal on regional signaling networks: An example from northern Iroquoia.** Science Advances 3.8 (2017). [paper](https://advances.sciencemag.org/content/3/8/e1700497.short)
+
+   *John P Hart, Jennifer Birch, and Christian Gates St-Pierre.*
+
+6. **Quantifying reputation and success in art.** Science 362.6416 (2018). [paper](https://science.sciencemag.org/content/362/6416/825.abstract)
+
+   *Samuel P Fraiberger et al.*
+
+7. **Aspirational pursuit of mates in online dating markets.** *Science Advances* 4.8 (2018). [paper](https://advances.sciencemag.org/content/4/8/eaap9815.short)
+
+   *Elizabeth E Bruch and MEJ Newman.*
+
+8. **Searching for superspreaders of information in real-world social media.** Scientific Reports 4.1 (2014). [paper](https://www.nature.com/articles/srep05547)
+
+   *Sen Pei et al.*
+
+9. **Hiding individuals and communities in a social network.** Nature Human Behaviour 2.2 (2018). [paper](https://www.nature.com/articles/s41562-017-0290-3)
+
+   *Marcin Waniek et al.*
+
 ##### [Designed Index](#contentnetwork)
+
+1. **The dynamics of meaningful social interactions and the emergence of collective knowledge.** Scientific Reports 5.1 (2015). [paper](https://www.nature.com/articles/srep12197?origin=ppub)
+
+   *Marija Mitrovic ́ Dankulov, Roderick Melnik, and Bosiljka Tadic ́.*
+
+2. **Cumulative effects of triadic closure and homophily in social networks.** Science Advances 6.19 (2020). [paper](https://advances.sciencemag.org/content/6/19/eaax7310.abstract)
+
+   *Aili Asikainen et al.*
+
+3. **Social connections with COVID-19–affected areas increase compliance with mobility restrictions.** Science Advances 6.47 (2020). [paper](https://advances.sciencemag.org/content/6/47/eabc3054.abstract)
+
+   *Ben Charoenwong, Alan Kwan, and Vesa Pursiainen.*
+
+4. **Identifying influential and susceptible members of social networks.** Science 337.6092 (2012). [paper](https://science.sciencemag.org/content/337/6092/337.abstract)
+
+   *Sinan Aral and Dylan Walker.*
+
+5. **Generalized friendship paradox in complex networks: The case of scientific collaboration.** Scientific Reports 4.1 (2014). [paper](https://www.nature.com/articles/srep04603.)
+
+   *Young-Ho Eom and Hang-Hyun Jo.*
+
+6. **Large teams develop and small teams disrupt science and technology.** *Nature* 566.7744 (2019). [paper](https://www.nature.com/articles/s41586-019-0941-9?wpisrc=)
+
+   *Lingfei Wu, Dashun Wang, and James A Evans.*
+
+7. **Resilience and efficiency in transportation networks.** Science Advances 3.12 (2017). [paper](https://advances.sciencemag.org/content/3/12/e1701079.short)
+
+   *Alexander A Ganin et al.*
+
+8. **Searching for superspreaders of information in real-world social media.** Scientific Reports 4.1 (2014). [paper](https://www.nature.com/articles/srep05547)
+
+   *Sen Pei et al.*
+
 ##### [Probablitic Model](#contentnetwork)
+
+1. **The dynamics of meaningful social interactions and the emergence of collective knowledge.** Scientific Reports 5.1 (2015). [paper](https://www.nature.com/articles/srep12197?origin=ppub)
+
+   *Marija Mitrovic ́ Dankulov, Roderick Melnik, and Bosiljka Tadic ́.*
+
+2. **Inferring propagation paths for sparsely observed perturbations on complex networks.** Science Advances 2.10 (2016). [paper](https://advances.sciencemag.org/content/2/10/e1501638.short)
+
+   *Francesco Alessandro Massucci et al.*
+
+3. **Collective influence of multiple spreaders evaluated by tracing real information flow in large-scale social networks.** Scientific Reports 6.1 (2016). [paper](https://www.nature.com/articles/srep36043)
+
+   *Xian Teng et al.*
+
+4. **Identification and impact of discoverers in online social systems.** Scientific Reports 6.1 (2016). [paper](https://www.nature.com/articles/srep34218)
+
+   *Matu ́ sˇ Medo et al.*
+
+   
+
 #### [Subgraph](#contentnetwork)
 ##### [Motif-based statistics/coefficients/index](#contentnetwork)
+
+1. **Cumulative effects of triadic closure and homophily in social networks.** Science Advances 6.19 (2020). [paper](https://advances.sciencemag.org/content/6/19/eaax7310.abstract)
+
+   *Aili Asikainen et al.*
+
+2. **Temporal motifs reveal homophily, gender-specific patterns, and group talk in call sequences.** PNAS 110.45 (2013). [paper](https://www.pnas.org/content/110/45/18070.short)
+
+   *Lauri Kovanen et al.*
+
 ##### [Cluster-based statistics/coefficients/index](#contentnetwork)
+
+1. **Document co- citation analysis to enhance transdisciplinary research.** *Science Advances* 4.1 (2018). [paper](https://advances.sciencemag.org/content/4/1/e1701130?muraadminpreview&muraadminpreview&mobileformat=false)
+
+   *Caleb M Trujillo and Tammy M Long.*
+
+2. **Emotion semantics show both cultural variation and universal structure.** Science 366.6472 (2019). [paper](https://science.sciencemag.org/content/366/6472/1517.abstract)
+
+   *Joshua Conrad Jackson et al.*
+
+3. **Uncovering space-independent communities in spatial networks.** PNAS 108.19 (2011). [paper](https://www.pnas.org/content/108/19/7663.short)
+
+   *Paul Expert et al.*
+
+4. **Hiding individuals and communities in a social network.** Nature Human Behaviour 2.2 (2018). [paper](https://www.nature.com/articles/s41562-017-0290-3)
+
+   *Marcin Waniek et al.*
+
 ### [Embedding-based representation](#contentnetwork)
 #### [Node & Subgraph](#contentnetwork)
 ##### [Matrix Factorization](#contentnetwork)
+
+1. **Like like alike: joint friendship and interest propagation in social networks.** WWW 2011. [paper](https://dl.acm.org/doi/abs/10.1145/1963405.1963481?casa_token=_mVvEXnPDHEAAAAA:_wSNu-DfwhsKh1CVIsomapxF6NH-jTB4R1X1179EeSesSDvxOgtjn_2QlH5dhMN_s09xCugUn8t5dA)
+
+   *Shuang-Hong Yang et al.*
+
+2. **Using content and interactions for discovering communities in social networks.** WWW 2012. [paper](https://dl.acm.org/doi/abs/10.1145/2187836.2187882?casa_token=GRZucJZm9hQAAAAA:maIiVUzmZ7NsnTxlhERkaZUk47zSQ-WfQwcx5IR21UFtaVo1jceZjTf_ScJ50xb1kmYKVFJdbk-68Q)
+
+   *Mrinmaya Sachan et al.*
+
+3. **Private traits and attributes are predictable from digital records of human behavior.** PNAS 110.15 (2013). [paper](https://www.pnas.org/content/110/15/5802.short)
+
+   *Michal Kosinski, David Stillwell, and Thore Graepel.*
+
+4. **Magnet community identification on social networks.** SIGKDD 2012. [paper](https://dl.acm.org/doi/abs/10.1145/2339530.2339627?casa_token=7gg9iP5p2IoAAAAA:zTc2ZPtgUR4bDYsC_xpOD2_WJfn_z7NHH65QCyJa5OKTMDEqTWhRFhG3o3r44JvBzvj3NOC8TDtlKQ)
+
+   *Guan Wang et al.*
+
 ##### [Neural-based](#contentnetwork)
 
+1. **Revisiting user mobility and social relationships in lbsns: A hypergraph embedding approach.** WWW 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313635?casa_token=jqoqAmg5WTsAAAAA:IUEAaaRANp3-kTdh3NK4S3wNWNan-nYBD_bfnAtrjymq-mzMqR32d85Dm6v2C-80fU4UFbBAyinsEA)
 
+   *Dingqi Yang et al.*
+
+2. **Regions, periods, activities: Uncovering urban dynamics via cross-modal representation learning.** WWW 2017. [paper](https://dl.acm.org/doi/abs/10.1145/3038912.3052601)
+
+   *Chao Zhang et al.*
+
+3. **Graph neural networks for social recommendation.** WWW 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313488?casa_token=SCGdurVmqzwAAAAA:5rOUoQdDYtAEPWHFgWg4qJqO4uvWoJ9jhBGFhtGfMtB1T85PTuRKgKD3ylVC9ukDdItN42E0tPJF0Q)
+
+   *Wenqi Fan et al.*
+
+4. **Dual graph attention networks for deep latent representation of multifaceted social effects in recommender systems.** WWW 2019. [paper](https://dl.acm.org/doi/abs/10.1145/3308558.3313442?casa_token=n8iReZXJIpMAAAAA:6Gxv_9TlcNzVjifPMkSn7BDmfZWbc_FvX3ZszCaeifrxDo7qzoee2ybgluW6WinFpB8vix570hgE0A)
+
+   *Qitian Wu et al.*
+
+   
 
 ## [Research Domains](#contentapplications)
 ### [Sociology](#contentapplications)
