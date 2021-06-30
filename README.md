@@ -803,7 +803,47 @@ Corrections and suggestions are welcomed!
 #### [Embedding-based representation](#domains)
 ### [Communication](#domains)
 #### [Symbol-based representation](#domains)
+
+1. **Analyzing and predicting viral tweets.** WWW 2013. [paper](https://dl.acm.org/doi/10.1145/2487788.2488017)
+
+   *Maximilian Jenders, Gjergji Kasneci, and Felix Naumann.*
+
+2. **Opencrowd: A human-ai collaborative approach for finding social influencers via open- ended answers aggregation.** WWW 2020. [paper](https://doi.org/10.1145/3366423.3380254)
+
+   *Ines Arous et al.*
+
+3. **The public and legislative impact of hyperconcentrated topic news.** Science Advances 5.8 (2019). [paper](https://advances.sciencemag.org/content/5/8/eaat8296.abstract)
+
+   *Karthik Sheshadri and Munindar P Singh.*
+
+4. **Elusive consensus: Polarization in elite communication on the COVID-19 pandemic.** Science Advances 6.28 (2020). [paper](https://advances.sciencemag.org/content/6/28/eabc2717.abstract)
+
+   *Jon Green et al.*
+
+5. **Emotion shapes the diffusion of moralized content in social networks.** PNAS 114.28 (2017). [paper](https://www.pnas.org/content/114/28/7313.short)
+
+   *William J Brady et al.*
+
 #### [Embedding-based representation](#domains)
+
+1. **Topic-level social network search.** KDD 2011. [paper](https://dl.acm.org/doi/10.1145/2020408.2020532)
+
+   *Jie Tang et al.*
+
+2. **Network structure and influence of the climate change counter-movement.** *Nature Climate Change* 6.4 (2016). [paper](https://www.nature.com/articles/nclimate2875)
+
+   *Justin Farrell.*
+
+3. **The public and legislative impact of hyperconcentrated topic news.** Science Advances 5.8 (2019). [paper](https://advances.sciencemag.org/content/5/8/eaat8296.abstract)
+
+   *Karthik Sheshadri and Munindar P Singh.*
+
+4. **A Frame of Mind: Using Statistical Models for Detection of Framing and Agenda Setting Campaigns.** ACL 2015. [paper](http://aclweb.org/anthology/P15-1157.pdf)
+
+   *Oren Tsur, Dan Calacci, and David Lazer.*
+
+   
+
 ### [Geography](#domains)
 #### [Symbol-based representation](#domains)
 #### [Embedding-based representation](#domains)
