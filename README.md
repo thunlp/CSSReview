@@ -846,7 +846,78 @@ Corrections and suggestions are welcomed!
 
 ### [Geography](#domains)
 #### [Symbol-based representation](#domains)
+
+1. **Location inference using microblog messages.** WWW 2012. [paper](https://doi.org/10.1145/2187980.2188181)
+
+   *Yohei Ikawa, Miki Enoki, and Michiaki Tatsubori*
+
+2. **Inferring twitter user locations with 10 km accuracy.** WWW 2014. [paper](https://dl.acm.org/doi/10.1145/2567948.2579236)
+
+   *KyoungMin Ryoo and Sue Moon.*
+
+3. **Simple supervised document geolocation with geodesic grids.** ACL 2011. [paper](https://www.aclweb.org/anthology/P11-1096.pdf)
+
+   *Benjamin Wing and Jason Baldridge.*
+
+4. **Socroutes: safe routes based on tweet sentiments.** WWW 2014. [paper](https://doi.org/10.1145/2567948.2577023)
+
+   *Jaewoo Kim, Meeyoung Cha, and Thomas Sandholm.*
+
 #### [Embedding-based representation](#domains)
+
+1. **Hierarchical geographical modeling of user locations from social media posts.** WWW 2013. [paper](https://dl.acm.org/doi/10.1145/2488388.2488392)
+
+   *Amr Ahmed, Liangjie Hong, and Alexander J Smola.*
+
+2. **Regions, periods, activities: Uncovering urban dynamics via cross-modal representation learning.** WWW 2017. [paper](https://dl.acm.org/doi/abs/10.1145/3038912.3052601)
+
+   *Chao Zhang et al.*
+
+3. **Who, where, when and what: discover spatio-temporal topics for twitter users.** KDD 2013. [paper](https://dl.acm.org/doi/10.1145/2487575.2487576)
+
+   *Quan Yuan et al.*
+
+4. **Travel time estimation of a path using sparse trajectories.** KDD 2014. [paper](https://dl.acm.org/doi/10.1145/2623330.2623656)
+
+   *Yilun Wang, Yu Zheng, and Yexiang Xue.*
+
+5. **Gmove: Group-level mobility modeling using geo-tagged social media.** KDD 2016. [paper](https://dl.acm.org/doi/10.1145/2939672.2939793)
+
+   *Chao Zhang et al.*
+
+6. **Triovecevent: Embedding-based online local event detection in geo-tagged tweet streams.** KDD 2017. [paper](https://dl.acm.org/doi/10.1145/3097983.3098027)
+
+   *Chao Zhang et al.*
+
+7. **Unifying text, metadata, and user network representations with a neural network for geolocation prediction.** ACL 2017. [paper](http://aclweb.org/anthology/P17-1116.pdf)
+
+   *Yasuhide Miura et al.*
+
+8. **Discovering geographical topics in the twitter stream.** WWW 2012. [paper](https://dl.acm.org/doi/10.1145/2187836.2187940)
+
+   *Liangjie Hong et al.*
+
+   
+
 ### [Environment](#domains)
 #### [Symbol-based representation](#domains)
+
+1. **Rapid assessment of disaster damage using social media activity.** *Science Advances* 2.3 (2016). [paper](https://advances.sciencemag.org/content/2/3/e1500779.short)
+
+   *Yury Kryvasheyeu et al.*
+
+2. **Class specific TF-IDF boosting for short-text classification: Application to short-texts generated during disasters.** WWW 2018. [paper](https://dl.acm.org/doi/10.1145/3184558.3191621)
+
+   *Samujjwal Ghosh and Maunendra Sankar Desarkar.*
+
 #### [Embedding-based representation](#domains)
+
+1. **Network structure and influence of the climate change counter-movement.** *Nature Climate Change* 6.4 (2016). [paper](https://www.nature.com/articles/nclimate2875)
+
+   *Justin Farrell.*
+
+2. **Enhancing Air Quality Prediction with Social Media and Natural Language Processing.** ACL 2019. [paper](https://www.aclweb.org/anthology/P19-1251.pdf)
+
+   *Jyun-Yu Jiang et al.*
+
+   
