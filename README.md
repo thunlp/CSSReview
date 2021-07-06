@@ -2,7 +2,7 @@
 
 CSS: Computational Social Science
 
-Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang
+Contributed by Huimin Chen, Cheng Yang, Xuanming Zhang and Yun Shi.
 
 
 
