@@ -565,6 +565,57 @@ Corrections and suggestions are welcomed!
 ## [Research Domains](#domains)
 ### [Sociology](#domains)
 #### [Symbol-based representation](#domains)
+
+1. **Aspirational pursuit of mates in online dating markets.** Science Advance 4.8 (2018). [paper](https://advances.sciencemag.org/content/advances/4/8/eaap9815.full.pdf?smid=nytcore-ios-share)
+
+   *E.E.Bruch and M.E.J.Newman*
+
+2. **Bots increase exposure to negative and inflammatory content in online social systems.** PNAS 115.49 (2018). [paper](https://www.pnas.org/content/pnas/115/49/12435.full.pdf)
+
+   *M. Stella, E. Ferrara, and M. De Domenico.*
+
+3. **Validation of Twitter opinion trends with national polling aggregates: Hillary Clinton vs Donald trump.** Scientific Reports 8.1 (2018). [paper](https://www.nature.com/articles/s41598-018-26951-y)
+
+   *A. Bovet, F. Morone, and H. A. Maks.*
+
+4. **Exposure to ideologically diverse news and opinion on Facebook.** Science 348.6239 (2015). [paper](https://science.sciencemag.org/content/348/6239/1130.abstract)
+
+   *E. Bakshy, S. Messing, and L. A. Adamic.*
+
+5. **Happiness and the patterns of life: A study of Geolocated tweets.** Scientific Reports 3.1 (2013). [paper](https://www.nature.com/articles/srep02625)
+
+   *M. R. Frank et al.*
+
+6. **The incidence and role of negative citations in science.** PNAS 112.45 (2015). [paper](https://www.pnas.org/content/112/45/13823)
+
+   *C. Catalini, N. Lacetera, and A. Oettl.*
+
+7. **Quantitative patterns of stylistic influence in the evolution of literature.** PNAS 109.20 (2012). [paper](https://www.pnas.org/content/pnas/109/20/7682.full.pdf)
+
+   *J. M. Hughes et al.*
+
+8. **Emotion shapes the diffusion of moralized content in social networks.** PNAS 114.28 (2017). [paper](https://www.pnas.org/content/pnas/114/28/7313.full.pdf)
+
+   *W. J. Brady et al.*
+
+9. **Distress and rumor exposure on social media during a campus lockdown.** PNAS 114.44 (2017). [paper](https://www.pnas.org/content/114/44/11663?tab=related&utm_source=TrendMD&utm_medium=cpc&utm_campaign=Proc_Natl_Acad_Sci_U_S_A_TrendMD_0)
+
+   *N. M. Jones et al.*
+
+10. **Echo chambers: Emotional contagion and group polarization on facebook.** Scientific Reports 6.1 (2016). [paper](https://www.nature.com/articles/srep37825)
+
+    *M. Del Vicario et al.*
+
+11. **Content-based features predict social media influence operations.** Science Advance 6.30 (2020). [paper](https://advances.sciencemag.org/content/6/30/eabb5824?utm_source=TrendMD&utm_medium=cpc&utm_campaign=TrendMD_1)
+
+    *M. Alizadeh et al.*
+
+12. **Systematic inequality and hierarchy in faculty hiring networks.** Science Advance 1.1 (2015). [paper](https://advances.sciencemag.org/content/1/1/e1400005?hc_location=ufi)
+
+    *A. Clauset, S. Arbesman, and D. B. Larremore.*
+
+
+
 #### [Embedding-based representation](#domains)
 ### [Anthropology](#domains)
 #### [Symbol-based representation](#domains)
