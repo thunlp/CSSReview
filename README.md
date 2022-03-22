@@ -851,7 +851,133 @@ Corrections and suggestions are welcomed!
 
 ### [Linguistics](#domains)
 #### [Symbol-based representation](#domains)
+1. **Human language reveals
+a universal positivity bias.** PNAS 112.8 (2015). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1411678112)
+   
+   *Peter Dodds et al.*
+
+2. **Ontogeny and phylogeny of language.** PNAS 110.16 (2013). [paper][https://www.pnas.org/doi/pdf/10.1073/pnas.1216803110]
+
+   *Charles Yang*
+
+3. **Quantitative analysis of
+culture using millions of digitized books.** Science 331.6014 (2011). [paper](https://www.science.org/doi/full/10.1126/science.1199644)
+
+   *Jean-Baptiste Michel et al.*
+
+4. **Emotion semantics show both cultural
+variation and universal structure.** Science 366.6472 (2019). [paper](https://www.science.org/doi/full/10.1126/science.aaw8160)
+
+   *Joshua Jackson et al.*
+
+5. **Word lengths
+are optimized for efficient communication.** PNAS 108.9 (2011). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1012551108)
+
+   *Steven Piantadosi, Harry Tily, and Edward Gibson*
+
+6. **Large-scale
+evidence of dependency length minimization in 37
+languages.** PNAS 112.33 (2015). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1502134112)
+
+   *Richard Futrell
+, Kyle Mahowald, and Edward Gibson*
+
+7. **Examining long-term trends in politics and culture
+through language of political leaders and cultural
+institutions.** PNAS 116.9 (2019). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1811987116)
+
+   *Kayla Jordan et al.*
+
+8. **The
+narrative arc: Revealing core narrative structures through
+text analysis.** Science Advances 6.32 (2020). [paper](https://www.science.org/doi/full/10.1126/sciadv.aba2196)
+
+   *Ryan Boyd, Kate Blackburn and James Pennebaker*
+
+9. **Quantitative patterns of stylistic influence in
+the evolution of literature.** PNAS 109.20 (2012). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1115407109)
+
+   *James Hughes et al.*
+
+10. **User review
+sites as a resource for large-scale sociolinguistic studies** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741141)
+
+      *Dirk Hovy et al.*
+
+11. **A computational approach to
+politeness with application to social factors** ACL 2013. [paper](https://arxiv.org/pdf/1306.6078.pdf)
+
+      *Cristian Danescu-Niculescu-Mizil et al.*
+
+12. **You had me at hello: How phrasing affects
+memorability.** ACL 2012. [paper](https://arxiv.org/pdf/1203.6360.pdf)
+
+      *Cristian Danescu-Niculescu-Mizil et al.*
+
+13. **The effect of wording on
+message propagation: Topic- and author- controlled
+natural experiments on Twitter.** ACL 2014. [paper](https://arxiv.org/pdf/1405.1438.pdf?ref=https://githubhelp.com)
+
+      *Chenhao Tan, Lillian Lee and Bo Pang*
+
+14. **Detecting biased statements in
+Wikipedia.** WWW 2018. [paper](https://dl.acm.org/doi/pdf/10.1145/3184558.3191640)
+
+      *Christoph Hube and Besnik Fetahu*
+
+15. **Nonliteral understanding of number words.** PNAS 111.33 (2014). [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9520816)
+
+      *Justine Kao et al.*
+
+16. **On the
+universal structure of human lexical semantics.** PNAS 113.7 (2016). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1520752113)
+
+      *Hyejin Youn et al.*
+
+17. **Knowledge gaps in the early growth of semantic
+feature networks.** Nature Human Behavior 2.9 (2018). [paper](https://www.nature.com/articles/s41562-018-0422-4)
+
+     *Ann Sizemore et al.* 
+
+18. **Links that speak: The global
+language network and its association with global fame** PNAS 111.52 (2014). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1410931111)
+
+      *Shahar Ronen et al.*
 #### [Embedding-based representation](#domains)
+1. **Natural speech reveals the
+semantic maps that tile human cerebral cortex.** Nature 532.7600 (2016). [paper](https://www.nature.com/articles/nature17637)
+
+      *Alexander Huth et al.*
+
+2. **Quantitative patterns of stylistic influence in
+the evolution of literature.** PNAS 109.20 (2012). [paper](https://www.pnas.org/doi/pdf/10.1073/pnas.1115407109)
+
+      *James M. Hughes et al.*
+
+3. **Race, religion and the city:
+Twitter word frequency patterns reveal dominant
+demographic dimensions in the United States.** Nature Palgrave Communication 2.1 (2016). [paper](https://www.nature.com/articles/palcomms201610)
+
+      *Eszter Bokányi et al.*
+
+4. **Predicting the birth of a spoken word.** PNAS 112.41 (2015). [paper](https://www.pnas.org/doi/10.1073/pnas.1419773112)
+
+      *Brandon Roy et al.*
+
+5. **A robust
+framework for estimating linguistic alignment in twitter
+conversations.** WWW 2016. [paper](https://dl.acm.org/doi/pdf/10.1145/2872427.2883091?casa_token=Nffr1wJmXB8AAAAA:bel8amj4ZKg64zHvUFeTGnfsYUtULX2ehAHtLJ6QI6TmEa98jIPo9r76iPAsDT7EyQwzJ9Lw5It4lA)
+
+      *Gabriel Doyle, Dan Yurovsky and Michael Frank*
+
+6. **Statistically significant detection of linguistic change.** WWW 2015. [paper](https://dl.acm.org/doi/pdf/10.1145/2736277.2741627)
+
+      *Vivek Kulkarni et al.*
+
+7. **Simple, interpretable and stable method for detecting
+words with usage change across corpora.** ACL 2020. [paper](https://arxiv.org/pdf/2112.14330.pdf)
+
+      *Hila Gonen et al.*
 ### [Communication](#domains)
 #### [Symbol-based representation](#domains)
 
